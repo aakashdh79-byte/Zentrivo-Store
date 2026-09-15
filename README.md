@@ -15,3 +15,7 @@ Open `index.html` in a browser.
 
 ## Next steps
 Connect real products, checkout/payment, analytics, domain and backend when ready.
+
+
+### Demo imagery
+Local SVG demo product images are included in `images/`. Replace them later with licensed/owned product photos when real products are connected.
